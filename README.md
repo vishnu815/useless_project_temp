@@ -1,43 +1,36 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# USELESS PROJECT 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:ICED TEA
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Vishnu S - College of engineering Munnar
+- Member 2: Aparna S - College of engineering Munnar
+- 
 
 ### Project Description
-[2-3 lines about what your project does]
+A useless charger that provides the user the thought that the phone is charging.By the time user realises, the app for the useless charger will fool him/her .
+where all choosing either hardware or software,we choose to mix up both for a problem that doesn't even exist.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The problem is that the phone battery level shouldnt increase  but be charged at the same time.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+creating a useless charger('chargeur inutile') that charges the same time but not increasing the battery level
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+java & xml
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+MB102 module,breadboard,jumper wires,9v battery,dc connector
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
 # Run
 [commands]
@@ -45,51 +38,44 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots![launching icon](https://github.com/user-attachments/assets/e88fb719-ff6d-4236-8895-40b3ede0f87e)
+ (Add at least 3)
+ 
+![first interface](https://github.com/user-attachments/assets/deae24b2-deef-43bb-9fab-7d91ae6eb9b5)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![second interface](https://github.com/user-attachments/assets/9540f22b-0ef7-4dbb-8e1f-a1480570f62e)
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+# Schem![schematic of the charger](https://github.com/user-attachments/assets/88a0698f-776d-40cd-ab23-c3889208e811)
+atic & Circuit
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![components](https://github.com/user-attachments/assets/e5d841f6-7968-4892-ba32-bf9158bf9cb5)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+!![secondary](https://github.com/user-attachments/assets/69124ecc-7077-446e-9a96-a13b538a8f07)
+
+
+![final](https://github.com/user-attachments/assets/fb8d8e9b-4def-4a01-9e4d-6debd8192e31)
+
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
+https://github.com/user-attachments/assets/3d2eb834-e8b6-4acd-a682-e95025c4e47f
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Vishnu S: Team lead & hardware setup contribution
+- Aparna S: java and xml specialist
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
